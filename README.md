@@ -3,7 +3,7 @@
 Este é o meu primeiro projeto desenvolvendo uma API em Java utilizando o framework Spring Boot.
 
 ## 🚀 Tecnologias Utilizadas
-* Java 25
+* Java 21
 * Spring Boot 3.4.3
 * Maven
 
